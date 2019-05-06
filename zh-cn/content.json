@@ -22,7 +22,7 @@
         { "type": "category", "name": "某个发生在二年一班的悲剧", "url": "SS11", "count": 5, "fixLength": 3 },
         { "type": "category", "name": "和狗狗一起度过的午休", "url": "SS12", "count": 10, "fixLength": 3 },
         { "type": "category", "name": "空日记", "url": "SS13", "count": 2, "fixLength": 3 },
-        { "type": "category", "name": "圣诞快乐！", "url": "SS14", "count": 3, "fixLength": 6 },
+        { "type": "category", "name": "圣诞快乐！", "url": "SS14", "count": 6, "fixLength": 3 },
         { "type": "range", "min": 71, "max": 80, "fixLength": 3 },
         { "type": "category", "name": "突入！御咲学园！", "url": "SS15", "count": 19, "fixLength": 3 },
         { "type": "category", "name": "还差一步…！", "url": "SS16", "count": 2, "fixLength": 3 },
