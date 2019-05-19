@@ -96,6 +96,6 @@
         { "type": "category", "name": "兽耳朋友", "url": "SS67", "count": 4, "fixLength": 3 },
         { "type": "category", "name": "爱♡爱♡LOVERS", "url": "SS68", "count": 4, "fixLength": 3 },
         { "type": "category", "name": "狼与烟火", "url": "SS69", "count": 5, "fixLength": 3 },
-        { "type": "range", "min": 251, "max": 257, "fixLength": 3 }
+        { "type": "range", "min": 251, "max": 258, "fixLength": 3 }
     ]
 }
