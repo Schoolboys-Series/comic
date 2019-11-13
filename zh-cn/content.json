@@ -100,6 +100,7 @@
 		{ "type": "category", "name": "一触即发", "url": "SS70", "count": 6, "fixLength": 3 },
 		{ "type": "category", "name": "实践！", "url": "SS71", "count": 5, "fixLength": 3 },
 		{ "type": "range", "min": 261, "max": 270, "fixLength": 3 },
-		{ "type": "category", "name": "我的彦星大人", "url": "SS72", "count": 3, "fixLength": 3 }
+		{ "type": "category", "name": "我的彦星大人", "url": "SS72", "count": 3, "fixLength": 3 },
+		{ "type": "category", "name": "进★SOS", "url": "SS73", "count": 4, "fixLength": 3 }
     ]
 }
