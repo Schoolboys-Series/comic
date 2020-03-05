@@ -1,5 +1,5 @@
 {
-    "server": "https://raw.githubusercontent.com/WinUP/schoolboys_comic/master/zh-cn/comic/{name}.jpg",
+    "server": "https://raw.githubusercontent.com/scb-public/schoolboys_comic/master/zh-cn/comic/{name}.jpg",
     "categoryNameFormat": "{url}/{index}",
     "comics": [
         { "type": "range", "min": 1, "max": 10, "fixLength": 3 },
@@ -102,7 +102,7 @@
         { "type": "range", "min": 261, "max": 270, "fixLength": 3 },
         { "type": "category", "name": "我的彦星大人", "url": "SS72", "count": 3, "fixLength": 3 },
         { "type": "category", "name": "进★SOS", "url": "SS73", "count": 4, "fixLength": 3 },
-        { "type": "range", "min": 271, "max": 274, "fixLength": 3 },
-        { "type": "category", "name": "交给我吧", "url": "SS74", "count": 4, "fixLength": 3 }
+        { "type": "category", "name": "交给我吧", "url": "SS74", "count": 4, "fixLength": 3 },
+		{ "type": "range", "min": 271, "max": 275, "fixLength": 3 }
     ]
 }
