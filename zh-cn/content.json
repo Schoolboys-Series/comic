@@ -1,5 +1,5 @@
 {
-    "server": "https://raw.githubusercontent.com/scb-public/schoolboys_comic/master/zh-cn/comic/{name}.jpg",
+    "server": "https://raw.githubusercontent.com/Schoolboys-Series/comic/master/zh-cn/comic/{name}.jpg",
     "categoryNameFormat": "{url}/{index}",
     "comics": [
         { "type": "range", "min": 1, "max": 10, "fixLength": 3 },
