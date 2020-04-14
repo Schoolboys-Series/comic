@@ -103,7 +103,8 @@
         { "type": "category", "name": "我的彦星大人", "url": "SS72", "count": 3, "fixLength": 3 },
         { "type": "category", "name": "进★SOS", "url": "SS73", "count": 4, "fixLength": 3 },
         { "type": "category", "name": "交给我吧", "url": "SS74", "count": 4, "fixLength": 3 },
-		{ "type": "range", "min": 271, "max": 280, "fixLength": 3 },
-		{ "type": "range", "min": 281, "max": 281, "fixLength": 3 }
+        { "type": "range", "min": 271, "max": 280, "fixLength": 3 },
+        { "type": "category", "name": "第三年的脚光", "url": "SS75", "count": 3, "fixLength": 3 },
+        { "type": "range", "min": 281, "max": 281, "fixLength": 3 }
     ]
 }
