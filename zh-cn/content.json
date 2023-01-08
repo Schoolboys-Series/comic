@@ -106,6 +106,20 @@
         { "type": "range", "min": 271, "max": 280, "fixLength": 3 },
         { "type": "category", "name": "第三年的脚光", "url": "SS75", "count": 3, "fixLength": 3 },
         { "type": "range", "min": 281, "max": 290, "fixLength": 3 },
-        { "type": "range", "min": 291, "max": 295, "fixLength": 3 }
+        { "type": "range", "min": 291, "max": 296, "fixLength": 3 },
+        { "type": "category", "name": "这就是传说中的！", "url": "SS76", "count": 2, "fixLength": 3 },
+        { "type": "category", "name": "海路的天气", "url": "SS77", "count": 2, "fixLength": 3 },
+        { "type": "range", "min": 297, "max": 300, "fixLength": 3 },
+        { "type": "range", "min": 301, "max": 310, "fixLength": 3 },
+        { "type": "range", "min": 311, "max": 316, "fixLength": 3 },
+        { "type": "category", "name": "已成过去也不会消失", "url": "SS78", "count": 4, "fixLength": 3 },
+        { "type": "category", "name": "身侧的〇有点〇", "url": "SS79", "count": 4, "fixLength": 3 },
+        { "type": "range", "min": 317, "max": 320, "fixLength": 3 },
+        { "type": "range", "min": 321, "max": 330, "fixLength": 3 },
+        { "type": "range", "min": 331, "max": 334, "fixLength": 3 },
+        { "type": "category", "name": "多脱一层就能多露一手", "url": "SS80", "count": 2, "fixLength": 3 },
+        { "type": "category", "name": "我们是御咲市 花乃汤粉丝团！", "url": "SS81", "count": 2, "fixLength": 3 },
+        { "type": "category", "name": "别管就得了", "url": "SS82", "count": 2, "fixLength": 3 },
+        { "type": "range", "min": 335, "max": 338, "fixLength": 3 }
     ]
 }
