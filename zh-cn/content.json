@@ -120,6 +120,7 @@
         { "type": "category", "name": "多脱一层就能多露一手", "url": "SS80", "count": 2, "fixLength": 3 },
         { "type": "category", "name": "我们是御咲市 花乃汤粉丝团！", "url": "SS81", "count": 2, "fixLength": 3 },
         { "type": "category", "name": "别管就得了", "url": "SS82", "count": 2, "fixLength": 3 },
-        { "type": "range", "min": 335, "max": 338, "fixLength": 3 }
+        { "type": "range", "min": 335, "max": 340, "fixLength": 3 },
+        { "type": "range", "min": 341, "max": 350, "fixLength": 3 }
     ]
 }
